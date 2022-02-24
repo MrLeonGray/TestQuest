@@ -29,12 +29,12 @@ namespace TestProject
 
             int[] randomArray = randomList.ToArray();
 
-            Console.WriteLine("==========");
+            /*Console.WriteLine("==========");
             for (int i = 0; i < randomArray.Length; i++)
             {
                 Console.WriteLine(randomArray[i]);
             }
-            Console.WriteLine("==========");
+            Console.WriteLine("==========");*/
 
             for (int i = 0; i < randomArray.Length; i++)
             {
